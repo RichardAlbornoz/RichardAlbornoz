@@ -54,6 +54,16 @@
 
 <hr>
 
+<h3> 📚 GitHub Pages
+  
+  🚀 <a href="https://richardalbornoz.github.io/Proyecto-Js/"><img alt="ABSOLUT" src="https://img.shields.io/badge/Proyecto Js-ABSOLUT-blue?style=flat"></a>
+  
+  🚀 <a href="https://richardalbornoz.github.io/HeadHunter/"><img alt="HeadHunter" src="https://img.shields.io/badge/Proyecto DW-Head Hunter-blue?style=flat"></a>
+  
+  🚀 👷<img alt="Ecommerce" src="https://img.shields.io/badge/Proyecto React-Ecommerce-blue?style=flat"></a> 🚧Work in progress🚧
+  
+<hr>
+
 
 <h3> ⚙️  GitHub Analytics </h3>
 
