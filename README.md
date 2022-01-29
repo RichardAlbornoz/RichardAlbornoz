@@ -56,6 +56,8 @@
 
 <h3> 📚 GitHub Pages
   
+  🚀 <a href="https://richardalbornoz.github.io/Weather-App/"><img alt="Weather App" src="https://img.shields.io/badge/Proyecto App-Weather App-blue?style=flat"></a>
+  
   🚀 <a href="https://richardalbornoz.github.io/Proyecto-Js/"><img alt="ABSOLUT" src="https://img.shields.io/badge/Proyecto Js-ABSOLUT-blue?style=flat"></a>
   
   🚀 <a href="https://richardalbornoz.github.io/HeadHunter/"><img alt="HeadHunter" src="https://img.shields.io/badge/Proyecto DW-Head Hunter-blue?style=flat"></a>
